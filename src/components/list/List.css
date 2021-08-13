@@ -1,0 +1,6 @@
+.list__item {
+  margin-bottom: 10px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
