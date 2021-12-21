@@ -4,6 +4,12 @@ export default function About() {
   return (
     <div>
       <h1 className="about__title">О проекте</h1>
+      <p className="about__description-text">
+        Проект с использование роутинга и стороннего api. При нажатии по
+        кнопкам, происходит переход на другие роуты с подгрузкой данных. Так же
+        при нажатие на конкретный пост или пользователя отображается отдельная
+        корточка с расширенными данными
+      </p>
       <ul className="about__list">
         <p className="about__description"> В проекте использовал:</p>
         <li className="about__item">React</li>

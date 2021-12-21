@@ -13,3 +13,6 @@
 .about__item:hover {
   background-color: #ccc;
 }
+.about__description-text {
+  margin-bottom: 20px;
+}
