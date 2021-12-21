@@ -1,6 +1,6 @@
 # В проекте использовал:
 
-[Онлайн версия](https://postsmy.web.app/)
+[Онлайн версия](https://posts-b027f.web.app/)
 
 - React
 - React-hooks
