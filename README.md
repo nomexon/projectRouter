@@ -1,5 +1,7 @@
 # В проекте использовал:
 
+[Онлайн версия](https://postsmy.web.app/)
+
 - React
 - React-hooks
 - React-router
