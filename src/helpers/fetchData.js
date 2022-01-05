@@ -6,9 +6,6 @@ export async function getData(url, id = "", err = "error") {
     if (data.ok) {
       const res = await data.json();
       return res;
-    } else {
-      alert(err);
-      return [];
     }
   } catch (error) {
     alert(error);
